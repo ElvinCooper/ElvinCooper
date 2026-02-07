@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://https://github.com/ElvinCooper/ElvinCooper/blob/main/images/portada_profile.png" alt="Banner de Elvin Cooper" width="100%" />
-</p>
+<img width="1536" height="1024" alt="portada_profile" src="https://github.com/user-attachments/assets/e200a7ea-4a25-4b9a-af64-04d12bcfec55" />
 
 <h3 align="center">👨‍💻 Backend Developer | Python · Flask · Oracle · Docker · CI/CD</h3>
 
