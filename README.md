@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://https://github.com/ElvinCooper/ElvinCooper/blob/main/images/portada_profile.png" alt="Banner de Elvin Cooper" width="100%" />
+</p>
+
+<h3 align="center">👨‍💻 Backend Developer | Python · Flask · Oracle · Docker · CI/CD</h3>
+
 
 <!--
 **ElvinCooper/ElvinCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
